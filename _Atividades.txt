@@ -12,7 +12,7 @@ Atividades:
 5) Calcular a Área de um Quadrado:
 
 6) Calcular a Tensão Sobre um Resistor:
-	U=R.i	        R = Tensão 	(V)
+	U=R.i	        U = Tensão 	(V)
 			R = Resistência	(Ω)
 			I = Corrente 	(A)
 
@@ -25,9 +25,9 @@ Atividades:
 				T = Tempo
 							
 9) Calcular a Resistência de um Condutor:
-	R = p L/A   R = Resistência		(Ω)
-				P = Resistividade	(Ω.m)
-				L = Comprimento		(m²)
-				A = Área Tranvesal 	(mm²)
+	R = p L/A   	R = Resistência		(Ω)
+			P = Resistividade	(Ω.m)
+			L = Comprimento		(m²)
+			A = Área Tranvesal 	(mm²)
 	
 	
