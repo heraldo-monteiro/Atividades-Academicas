@@ -1,0 +1,33 @@
+
+Atividades: 
+
+1) Calcular a Área de um Circulo:
+
+2) Calcular a Área de um Trapézio:
+
+3) Calcular a Área de um Triângulo Equilátero:
+
+4) Calcular a Área de um Retângulo:
+
+5) Calcular a Área de um Quadrado:
+
+6) Calcular a Tensão Sobre um Resistor:
+	U=R.i	U = Tensão 		(V)
+			R = Resistência	(Ω)
+			I = Corrente 	(A)
+
+7) Calcular a Media de 5 Notas:
+
+8) Calcular a Distância Percorrida por um Projêtil?
+	V= S/T 	=> S = V.T
+							S = Distância
+							V = Velocidade
+							T = Tempo
+							
+9) Calcular a Resistência de um Condutor:
+	R = p L/A   R = Resistência		(Ω)
+				P = Resistividade	(Ω.m)
+				L = Comprimento		(m²)
+				A = Área Tranvesal 	(mm²)
+	
+	
